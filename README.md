@@ -1,7 +1,7 @@
 # nato
 Show the interest in Nato as measured by Wikipedia article views, from 24.2.2022 onwards, compared to 2016-2021.
 
-Spoiler alert: it exploded. More in `RESULTS.md` (human analysis), `nato.pdf` (numeric analysis), `nato.csv` (base data for nato.pdf) and `lang_stat.csv`` (script output).
+Spoiler alert: it exploded. More in `RESULTS.md` (human analysis), `nato.pdf` (numeric analysis), `nato.csv` (base data for nato.pdf) and `lang_stat.csv` (script output).
 
 ## Parameters
 This sub-100-line program snippet takes the Wikidata code for Nato, Q7184 as its input. The dates (24.2.2022, 2016-2021) are hard coded.
