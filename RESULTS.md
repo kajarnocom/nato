@@ -40,8 +40,9 @@ Russian speakers rank 20 on the list when put into proportion to the amount of n
 the Russian language article in Nato. Given the huge number of native speakers, Russian ranks number four after English, German and Spanish, if you
 count the number of views in the ten days starting 24.2.2022.
 
-Russian Wikipedia is still open and attempting to uphold the Neutral Point of View (NPOV) goal of Wikipedia. A plea to keep it this way was
-published by Wikimedia Foundation on 
+Russian Wikipedia is still open and attempting to uphold the Neutral Point of View (NPOV) goal of Wikipedia. The Wikimedia Foundation noted it
+"stands with its communities around the world in defending free knowledge in the face of threats from the Russian government", see
+https://wikimediafoundation.org/news/2022/03/03/wikimedia-foundation-stands-with-communities-defending-free-knowledge/
 
 ## Conclusions
 
