@@ -29,6 +29,20 @@ Among the big languages, the results are nearly as dramatic. German already for 
 For the ten hot days starting 24.2.2022, the difference accentuates. German ranks overall number 7, with English being 21 and French 29. That said, the German
 native speakers are more likely than English and French native speakers to live in a Nato membership country. 
 
+## Ukrainian speakers are busy elsewhere
+
+The fact that Ukrainian speakers rank number 30 should hardly be taken as a sign of passing interest in Nato. More so, that they are busy elsewhere than 
+on Wikipedia.
+
+## I hope the Russians love their NPOV, too
+
+Russian speakers rank 20 on the list when put into proportion to the amount of native Russian speakers, with a growth of 44 on the interest of 
+the Russian language article in Nato. Given the huge number of native speakers, Russian ranks number four after English, German and Spanish, if you
+count the number of views in the ten days starting 24.2.2022.
+
+Russian Wikipedia is still open and attempting to uphold the Neutral Point of View (NPOV) goal of Wikipedia. A plea to keep it this way was
+published by Wikimedia Foundation on 
+
 ## Conclusions
 
 One can fairly safely argue that reading the Wikipedia article on Nato is a measurement of the interest in Nato. Arguing that readership is an indication
